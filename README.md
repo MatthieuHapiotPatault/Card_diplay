@@ -1,7 +1,7 @@
 # Card_diplay
 Creation of a simple but cool card display !
 
-/!\ DISCLAIMER : This repository is a way for me to share my project, it is possible that some errors may have slip in it. /!\
+**/!\ DISCLAIMER : This repository is a way for me to share my project, it is not a complete tutorial. Some errors may have slip in it.**
 
 Materials : 
 - electrical wires
