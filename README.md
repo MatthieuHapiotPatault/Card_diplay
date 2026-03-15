@@ -12,3 +12,6 @@ Materials :
 Thus I do not recommand the ESP8266 (ESP-12F) I found it difficult to manage the different pin since they have specific purpose. Any microcontroler (with PWM pins) should work
 
 Code : I used Claude AI to help me.
+
+Manual : 
+There are two buttons, mode and choice. The first one make it possible to change mode between off, colours and animations. The second one is used to choose wich color or animation you want. (See the video for further demonstration.
