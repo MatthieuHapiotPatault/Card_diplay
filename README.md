@@ -10,3 +10,5 @@ Materials :
 - LED strip
 
 Thus I do not recommand the ESP8266 (ESP-12F) I found it difficult to manage the different pin since they have specific purpose. Any microcontroler (with PWM pins) should work
+
+Code : I used Claude AI to help me.
